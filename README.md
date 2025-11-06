@@ -31,9 +31,9 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamm-5106&show_icons=true&locale=en&theme=dracula" alt="shivamm-5106" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamm-5106&show_icons=true&locale=en&theme=dracula&count_private=true" alt="shivamm-5106" />
     <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-5106&layout=compact&locale=en&theme=dracula" alt="shivamm-5106" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-5106&layout=compact&locale=en&theme=dracula&count_private=true" alt="shivamm-5106" />
 </p>
 
 <br>
