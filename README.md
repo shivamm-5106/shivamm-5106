@@ -8,7 +8,7 @@
 - 🌱 I’m currently focused on mastering **Data Structures & Algorithms**.
 - 💻 I'm also learning **Full-Stack Web Development** (MERN Stack).
 - 🤝 I’m looking to collaborate on **beginner-friendly projects** to grow my skills.
-- 📫 How to reach me: **shivampandey5106@gmail.com** (Replace with your actual email)
+- 📫 How to reach me: **shivampandey5106@gmail.com**
 - ⚡ Fun fact: I believe `Ctrl+Z` is the most powerful tool ever created.
 
 <br>
@@ -41,7 +41,7 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-    <a href="https://linkedin.com/in/shivam-pandey-8b1186311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/shivam-pandey-8b1186311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="shivamm_5106" height="30" width="40" /></a>
   <!-- Add Twitter or other links if you have them -->
   <!-- <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="30" width="40" /></a> -->
 </p>
